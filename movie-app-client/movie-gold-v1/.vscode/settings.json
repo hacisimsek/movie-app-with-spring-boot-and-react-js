@@ -1,0 +1,8 @@
+{
+    "gitlens.gitCommands.search.showResultsInSideBar": false,
+    "workbench.activityBar.location": "side",
+    "editor.suggest.showStatusBar": false,
+    "workbench.panel.defaultLocation": "bottom",
+    "workbench.statusBar.visible": true,
+    "zenMode.hideStatusBar": true
+}
